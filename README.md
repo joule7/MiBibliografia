@@ -1,2 +1,2 @@
 # MiBibliografia
-web que laberga un Catálogo Bibliográfico creado para los alumnos que cursan la asignatura: Estructuras Discretas
+Web que alberga un Catálogo Bibliográfico creado para estudiantes de Estructuras Discretas
